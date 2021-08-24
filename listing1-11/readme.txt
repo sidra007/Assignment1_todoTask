@@ -1,0 +1,1 @@
+Listing 1-11. Using More Concise Code in the todoItem.ts File in the src Folder
